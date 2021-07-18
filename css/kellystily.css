@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.text-bg #encabeza  {
+    margin-top: 0px;
+    position: absolute;
+}
+.container .text-bg h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    color: #FFFFFF;
+}
+.carousel-inner .carousel-item.active .d-block.mx-auto {
+}
+.container-fluid #carouselExampleIndicators1 .carousel-inner {
+}
+.main-layout .banner-main img {
+}
+.main-layout .container-fluid #accordion1 {
+    margin-bottom: 0px;
+}
+.main-layout .container-fluid {
+    padding-bottom: 40px;
+    padding-top: 0px;
+}
+.main-layout .amazing {
+    background-image: url(file:///Macintosh%20HD/Users/Diseno/Desktop/DwBoost/image/saporrog.png);
+}
+.row .col-md-12 .amazing-box {
+    height: 300px;
+    background-image: url(../images/banner2.png);
+}
+#carouselExampleIndicators1 .carousel-inner .carousel-item.active {
+    margin-top: 0px;
+}
+#espacio {
+    height: 30px;
+    width: 1400px;
+}
+.main-layout #espacio video {
+    margin-left: 0px;
+}
+body {
+}
+.main-layout #espacio video {
+    margin-bottom: 150px;
+    margin-right: 0px;
+}
+.main-layout footer #contact {
+    margin-top: 440px;
+}
+#collapseOne1 .card-body img {
+    margin-left: 200px;
+}
+#collapseOne1 .card-body #FOTOFEA { max-width: 100
+}
+
+.card-body ul h3 {
+    position: absolute;
+    float: left;
+
+}
+.main-layout #about .container {
+}
+video {
+    margin-left: 0px;
+}
+.main-layout .container-fluid iframe {
+    margin-left: 220px;
+}
